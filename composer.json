@@ -22,10 +22,10 @@
     ]
   },
   "require": {
-    "php": "^7.1",
+    "php": "^7.2",
     "overblog/graphql-bundle": "^0.11",
-    "symfony/validator": "^4.0",
-    "doctrine/annotations": "^1.6"
+    "symfony/validator": "^5.0",
+    "doctrine/annotations": "^1.8"
   },
   "require-dev": {
     "phpunit/phpunit": "^7.0",
