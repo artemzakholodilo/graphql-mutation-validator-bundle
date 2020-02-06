@@ -31,8 +31,8 @@
     "phpunit/phpunit": "^7.0",
     "symfony/twig-bundle": "^4.0",
     "symfony/security-bundle": "^4.0",
-    "symfony/yaml": "^4.0",
-    "symfony/templating": "^4.0",
-    "symfony/console": "^4.0"
+    "symfony/yaml": "^5.0",
+    "symfony/templating": "^5.0",
+    "symfony/console": "^5.0"
   }
 }
